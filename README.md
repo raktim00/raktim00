@@ -8,6 +8,6 @@
 ##### Competitive Programming | RedHat Linux | Data analytics & analysis | Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | ELK Stack | Amazon AWS | Microsoft Azure | Google GCP | RedHat OpenStack | Terraform | Ansible | Flutter | Hadoop | OpenShift etc.
 
 ## Find my works around the Web 🌎 :
-- Sharing my achievements and working updates on <a href="https://www.linkedin.com/in/raktim00">LinkedIn </a> 🏆🥇⏱👨‍✈️
+- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/raktim00">LinkedIn </a> 🏆🥇⏱👨‍✈️
 - Writing Technical Blogs on <a href="https://medium.com/@raktim00">Medium </a> ✍📃📚💼
 - Learning Portfolio on <a href="https://docs.microsoft.com/en-us/users/raktimmidya">Microsoft Learn </a> 👨‍🎨🙌📈🖋
