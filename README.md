@@ -14,3 +14,5 @@
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/raktim00">LinkedIn </a> 🏆🥇⏱👨‍✈️
 
 - Learning Portfolio on <a href="https://docs.microsoft.com/en-us/users/raktimmidya">Microsoft Learn </a> 👨‍🎨🙌📈🖋
+
+- Cloud Computing Practice Portfolio on <a href="https://google.qwiklabs.com/public_profiles/a934a34a-5e8b-4afa-b80c-6ef6b92effd6">Google Quicklabs </a> 🌥🌟😇👨‍💻
