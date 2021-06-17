@@ -9,9 +9,11 @@
 
 ## Check out my works and achievements around the Web 🌎 :
 
-- Writing Technical Blogs on <a href="https://medium.com/@raktim00">Medium </a> ✍📃📚💼
+- Writing Technical Blogs on <a href="https://raktimmidya.medium.com/">Medium </a> ✍📃📚💯
 
-- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/raktim00">LinkedIn </a> 🏆🥇⏱👨‍✈️
+- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/raktimmidya">LinkedIn </a> 🏆✨⏱👨‍✈️
+
+- RedHat Global Certifications Portfolio on <a href="https://www.redhat.com/rhtapps/certification/verify/?certId=210-084-034">RedHat Professionals </a>🚀🌈🥇💼
 
 - Learning Portfolio on <a href="https://docs.microsoft.com/en-us/users/raktimmidya">Microsoft Learn </a> 👨‍🎨🙌📈🖋
 
