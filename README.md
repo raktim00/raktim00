@@ -2,10 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/raktim00/raktim00/main/Portfolio .gif" alt="Portfolio Template that says Raktim Midya - Tech Enthusiast alongside a cartoon illustration of Raktim">
 
-#### I'm a Tech Enthusiast 😎 who is passionate about understanding the core concepts behind different popular Technological Fields like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Networking, etc. ✨
+#### I'm a Tech Enthusiast 😎 who is passionate of understanding the core concepts behind different popular Technological Domains like Data Structure and Algorithms, Data Science, Machine Learning, DevOps Tools, Cloud Computing, Big Data Analysis, Data Bases, Mobile Application Development, Web Technologies, Full Stack Development, Networking, etc. ✨
+
+#### My expertise includes creation of some real industrial projects by integrating different modern tools and technologies. I express my works and knowledge through writing technical blogs on Medium and creating technical demonstration videos on YouTube. Currently, I'm seeking opportunities that will allow me to develop and promote technologies that benefits the Mankind. 🤍
 
 ### Specific fields of interest include 🔥 :
-##### Competitive Programming | RedHat Linux | Data analytics & analysis | Machine Learning | Deep Learning | Computer Vision | Jenkins | Docker | Kubernetes | Git & GitHub | Prometheus & Grafana | ELK Stack | Amazon AWS | Microsoft Azure | Google GCP | RedHat OpenStack | Terraform | Ansible | Flutter | Hadoop | OpenShift etc.
+##### Competitive Programming | Python3 | HTML | CSS | JavaScript | C | SQL | RHEL 8 | Data Analytics & Analysis | Machine Learning | Deep Learning | Computer Vision | NLP | Jenkins | Docker | Podman | CRI-O | Kubernetes | RedHat OpenShift | Git & GitHub | Prometheus & Grafana | ELK Stack | AWS | Microsoft Azure | Google GCP | RedHat OpenStack | Terraform | Ansible | Flutter | Hadoop | Hive | Spark | Hue | Kafka | Sqoop | MongoDB | MySQL etc.
 
 ## Check out my works and achievements around the Web 🌎 :
 
