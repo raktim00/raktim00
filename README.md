@@ -15,7 +15,7 @@
 
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/raktimmidya">LinkedIn </a> 🏆✨⏱👨‍✈️
 
-- Demonstrating Technical Projects on <a href="https://www.youtube.com/channel/UCOb-jmZQ_pkR9ifyVZKzQsg">YouTube </a> 🎗️🎬🌺💬
+- Demonstrating Technical Projects on <a href="https://youtube.com/raktimmidya">YouTube </a> 🎗️🎬🌺💬
 
 - RedHat Global Certifications Portfolio on <a href="https://www.redhat.com/rhtapps/certification/verify/?certId=210-084-034">RedHat Professionals </a>🚀🌈🥇💼
 
